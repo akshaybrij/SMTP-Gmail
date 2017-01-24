@@ -3,7 +3,6 @@ import webbrowser as wb
 import numpy as np
 import smtplib
 import time
-import cv2
 import pyautogui as pa
 wb.open('www.fb.com/profile.php')
 
